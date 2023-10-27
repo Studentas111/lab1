@@ -18,6 +18,7 @@
   <b>This is a paragraph.</b><br>
   <i>This is a paragraph.</i><br>
     <u>This is a paragraph.</u><br>
+    <object data="paplidsnip.html"></object><br>
 </body>
 
 </html>
